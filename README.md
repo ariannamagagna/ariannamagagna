@@ -8,7 +8,7 @@ Ciao! I’m **Arianna**, a soon-to-be graduate in *Climate Physics* from the Uni
 ![amoc_simulations](https://github.com/user-attachments/assets/0f7f5685-fce0-4477-84ed-f55d71b74421)
 🌊 **Master’s Thesis (in progress)**  
 **Topic:** Application of **rare event algorithms** to internal atmospheric variables for analyzing AMOC response using the coupled model **PlaSim-LSG**  
-- Developed and validated model climatologies against reanalysis datasets  
+- Validated model climatologies against reanalysis datasets  
 - Designed custom atmospheric state indices to explore extreme trajectories toward AMOC collapse  
 - Applied a rare event sampling algorithm to improve detection of low-probability/high-impact transitions
 
