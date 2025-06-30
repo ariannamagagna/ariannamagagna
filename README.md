@@ -4,16 +4,6 @@ Ciao! I’m **Arianna**, a soon-to-be graduate in *Climate Physics* from the Uni
 
 ---
 
-## 🌼 About Me
-
-🇮🇹 Native Italian | 🇬🇧 Proficient English | 🇩🇪 Intermediate German  
-⛰ Rock climber, hiker, swimmer — nature lover through and through  
-🦋 Passionate about creative writing & reading
-
-*Living proof that physics nerds make the best mountaineers - we really understand that gravity thing!*
-
----
-
 ## 🌞 Current Research
 ![amoc_simulations](https://github.com/user-attachments/assets/0f7f5685-fce0-4477-84ed-f55d71b74421)
 🌊 **Master’s Thesis (in progress)**  
@@ -73,6 +63,17 @@ If you're working on something exciting in this space, I’d love to connect.
 📌 https://github.com/ariannamagagna/EOF-time-series — ML for SST anomaly prediction  
 📌 `plasim-validation` (coming soon) — comparing model output to reanalysis  
 📌 More from my thesis will be added soon!
+
+---
+
+## 🌼 About Me
+
+🇮🇹 Native Italian | 🇬🇧 Proficient English | 🇩🇪 Intermediate German  
+  
+⛰ Rock climber, hiker, swimmer — nature lover through and through  
+🦋 Passionate about creative writing & reading
+
+*Living proof that physics nerds make the best mountaineers - we really understand that gravity thing!*
 
 ---
 
