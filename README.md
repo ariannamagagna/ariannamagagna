@@ -40,7 +40,7 @@ A project comparing **LSTM** and **MLP** networks to predict Sea Surface Tempera
 - `joblib`, `Parallel`, `LSTM`, `MLP`, `PACF`
 
 **Specialties:**  
-🌱 Rare Event Algorithm Implementation
+🌱 Rare Event Algorithm Implementation  
 🌱 Climate Model Validation  
 🌱 Advanced Scientific Visualization
 
