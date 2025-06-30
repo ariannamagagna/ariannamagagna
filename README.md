@@ -1,4 +1,4 @@
-# 🌻 Arianna — Climate Physics Enthusiast
+# 🌻 Arianna — Climate Physics
 
 Ciao! I’m **Arianna**, a soon-to-be graduate in *Climate Physics* from the University of Bologna, with a background in *Physics* from the University of Trento. I'm passionate about understanding Earth’s complex systems, especially through **climate modeling**.
 
