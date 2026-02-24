@@ -1,12 +1,12 @@
 # 🌻 Arianna — Climate Physics
 
-Ciao! I’m **Arianna**, a soon-to-be graduate in *Climate Physics* from the University of Bologna, with a background in *Physics* from the University of Trento. I'm passionate about understanding Earth’s complex systems, especially through **climate modeling**.
+Ciao! I’m **Arianna**, I recently graduated in *Climate Physics* from the University of Bologna, with a background in *Physics* from the University of Trento. I'm passionate about understanding Earth’s complex systems, especially through **climate modeling**.
 
 ---
 
 ## 🌞 Current Research
 ![amoc_simulations](https://github.com/user-attachments/assets/0f7f5685-fce0-4477-84ed-f55d71b74421)
-🌊 **Master’s Thesis (in progress)**  
+🌊 **Master’s Thesis**  
 **Topic:** Application of **rare event algorithms** to internal atmospheric variables for analyzing AMOC response using the coupled model **PlaSim-LSG**  
 - Validated model climatologies against reanalysis datasets  
 - Designed custom atmospheric state indices to explore extreme trajectories toward AMOC collapse  
